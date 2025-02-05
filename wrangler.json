@@ -8,6 +8,12 @@
     "directory": ".open-next/assets",
     "binding": "ASSETS"
   },
+  "routes": [
+    {
+      "pattern": "www.940205.xyz",
+      "custom_domain": true
+    }
+  ],
   "observability": {
     "enabled": true
   },
